@@ -14,10 +14,8 @@
     require 'components/config.php';
     ?>
 
-    <h1 style="text-align:center;" class="my-3">Aboutus</h1>
-    <div class="d-flex flex-nowrap">
-    <div class="flex-row">
-    <div class="mt-2 d-flex justify-content-evenly">
+    <h1 class="my-3 text-center">Aboutus</h1>
+    <div class="mt-2 d-flex flex-wrap justify-content-evenly">
       <div class="p-2">
       <img style="border-radius:200px;width:320px;height:320px" src="components/icon.png" alt="iForums" title="icon.png">
       </div>
@@ -25,14 +23,9 @@
       <img style="border-radius:200px;width:320px;height:320px" src="components/images/profile.jpg" alt="Mujtaba Rehman Qureshi" title="MRQ.png"></div>
 </div>
     <div class="p-2 mt-5"><p class="text-center">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, quod velit, enim ipsa, odio cum dolor amet ea omnis qui illo ipsum libero modi doloribus iste veritatis deserunt hic error?
-Esse quasi qui dolores perspiciatis modi reprehenderit facilis, libero enim voluptate ad mollitia culpa nostrum tempore magnam sequi consequatur eos assumenda in dolorem earum necessitatibus. Nam commodi nulla atque fuga!
-Officia ad rem molestias doloremque consectetur sit a repellat quae dignissimos eaque officiis eveniet atque, pariatur laboriosam corrupti nostrum velit ducimus modi hic aliquid, porro deleniti esse iusto dolores. Eos.
-Molestias asperiores, nihil fuga exercitationem porro officia ducimus, eveniet provident officiis nemo aperiam eos maiores necessitatibus dicta ipsam reiciendis ut, amet architecto repellendus iure nesciunt repellat voluptatibus? Ducimus, ad et.
+    IForums was developed by <a href="https://www.linkedin.com/in/mujtabarehman/" target="_blank">Mujtaba Rehman Qureshi</a> with a sole purpose of practicing backend programming fundamentals, the idea behind the project was to build a fully functional, scalable, cross platform compatible project which could be used by fellow programmers in order to discuss everyday/modern complex programming problems since we all get stuck into problems and these problems can sometimes become a potential loophole for the attackers or cause other relevant bugs if not given proper attention. One way to solve these problems without wasting any of your precious time is to discuss these problems within your friendly programming community and that is where a project like IForums could be utilized to ease your everyday life.
   </p>
   </div>
-</div>
-</div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 

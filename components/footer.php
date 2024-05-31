@@ -53,15 +53,12 @@
       <hr>
       <section class="mt-0 mb-0">
         <div class="col-md-12">
-          <p class="text-white">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur commodi, ipsum reprehenderit possimus dicta facere vero nulla ex, porro, saepe eligendi placeat veritatis! Excepturi maxime ipsum distinctio deserunt! Deleniti, dignissimos.
-            Ipsa rerum veniam quas obcaecati error cupiditate aliquam sequi, facilis quisquam nesciunt molestiae expedita, recusandae consequuntur placeat commodi sint. Natus aut ex veritatis mollitia impedit doloribus reprehenderit cumque deserunt repellendus!
-          </p>
+          <i><h2 class="text-center mt-4 mb-4">IForums - Where Devs Chat</h2></i>
         </div>
       </section>
     </div>
     <div class="text-center bg-dark">© <?php echo date('Y'); ?> Copyright:
-      <a class="text-white" href="https://www.linkedin.com/in/mujtaba-rehman-852b34246/">Mujtaba Rehman Qureshi</a>
+      <a class="text-white" target="_blank" href="https://www.linkedin.com/in/mujtaba-rehman-852b34246/">Mujtaba Rehman Qureshi</a>
     </div>
   </footer>
   
